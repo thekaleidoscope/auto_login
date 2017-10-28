@@ -20,6 +20,7 @@ while url1 == url2:
 
     browser.execute_script("loginform()")
     url2 = browser.current_url
+browser.close()
     
 
 
