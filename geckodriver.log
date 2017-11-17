@@ -1,0 +1,231 @@
+1510912321869	geckodriver	INFO	geckodriver 0.19.1
+1510912321895	geckodriver	INFO	Listening on 127.0.0.1:56687
+1510912323418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iZcSNz5Hzx04"
+1510912329905	Marionette	INFO	Enabled via --marionette
+1510912341543	Marionette	INFO	Listening on port 45895
+1510912341777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510912341993	Marionette	DEBUG	Register listener.js for window 2147483649
+1510912342606	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510912344322	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510912344323	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510912346261	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510912352301	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+
+(firefox:8280): LIBDBUSMENU-GTK-CRITICAL **: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+1510912570775	geckodriver	INFO	geckodriver 0.19.1
+1510912570803	geckodriver	INFO	Listening on 127.0.0.1:40179
+1510912571459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Rm4pINzuSsek"
+1510912576815	Marionette	INFO	Enabled via --marionette
+1510912587182	Marionette	INFO	Listening on port 40007
+1510912587584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510912587824	Marionette	DEBUG	Register listener.js for window 2147483649
+1510912587946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510912589466	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510912589468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510912591360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510912595857	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: chrome://global/content/viewZoomOverlay.js, line 47: TypeError: zoom is undefined
+JavaScript error: resource:///modules/ZoomUI.jsm, line 69: TypeError: win.gBrowser is undefined
+console.warn: Got an unexpected frameLoad in the inspector, please file a bug on bugzilla.mozilla.org!
+console.trace: 
+_fronts/inspector.js 827 WalkerFront<.getMutations</<
+_/Promise-backend.js 922 process
+_/Promise-backend.js 806 walkerLoop
+_/Promise-backend.js 742 scheduleWalkerLoop/<
+
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1766:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1766, column: 11
+console.error: 
+  Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1766:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:570:13
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1766, column: 11
+
+(/usr/lib/firefox/firefox:8339): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: resource:///modules/ZoomUI.jsm, line 69: TypeError: win.gBrowser is undefined
+1510912771289	geckodriver	INFO	geckodriver 0.19.1
+1510912771300	geckodriver	INFO	Listening on 127.0.0.1:54115
+1510912771741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.u4SuYXwUPnc4"
+1510912774259	Marionette	INFO	Enabled via --marionette
+1510912782992	Marionette	INFO	Listening on port 35003
+1510912783129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510912783389	Marionette	DEBUG	Register listener.js for window 2147483649
+1510912783591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510912785021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510912785023	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510912788433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510912794580	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510912900588	geckodriver	INFO	geckodriver 0.19.1
+1510912900702	geckodriver	INFO	Listening on 127.0.0.1:49887
+1510912901439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DzNSCvNRtJTI"
+1510912909449	Marionette	INFO	Enabled via --marionette
+1510912920311	Marionette	INFO	Listening on port 36395
+1510912920357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510912920562	Marionette	DEBUG	Register listener.js for window 2147483649
+1510912920668	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510912922080	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510912922081	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510912923666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510912927037	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+1510913039559	geckodriver	INFO	geckodriver 0.19.1
+1510913039571	geckodriver	INFO	Listening on 127.0.0.1:44223
+1510913041050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1e0NnPnNrdpy"
+1510913042879	Marionette	INFO	Enabled via --marionette
+1510913049621	Marionette	INFO	Listening on port 40283
+1510913049657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913049871	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913049985	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913051052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913051053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510913053202	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510913060380	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+1510913302527	geckodriver	INFO	geckodriver 0.19.1
+1510913302555	geckodriver	INFO	Listening on 127.0.0.1:44807
+1510913303140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6weOMyPbRh4m"
+1510913306843	Marionette	INFO	Enabled via --marionette
+1510913317736	Marionette	INFO	Listening on port 38433
+1510913317779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913318006	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913318236	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913320477	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913320480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510913322154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510913328235	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510913580354	geckodriver	INFO	geckodriver 0.19.1
+1510913580366	geckodriver	INFO	Listening on 127.0.0.1:50689
+1510913581026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ViQXf6cNDL8b"
+1510913584214	Marionette	INFO	Enabled via --marionette
+1510913590712	Marionette	INFO	Listening on port 43859
+1510913590811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913591031	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913591136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913592510	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913592511	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510913596856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510913603413	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510913668502	geckodriver	INFO	geckodriver 0.19.1
+1510913668514	geckodriver	INFO	Listening on 127.0.0.1:56423
+1510913668941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.66dZzr7nJxpi"
+1510913671987	Marionette	INFO	Enabled via --marionette
+1510913677501	Marionette	INFO	Listening on port 44815
+1510913677787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913678093	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913678206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913679186	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913679187	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510913680592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510913683924	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510913744772	geckodriver	INFO	geckodriver 0.19.1
+1510913744787	geckodriver	INFO	Listening on 127.0.0.1:44669
+1510913746182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zx4FwWdCiGks"
+1510913748017	Marionette	INFO	Enabled via --marionette
+1510913753244	Marionette	INFO	Listening on port 39205
+1510913753337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913753551	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913753643	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913754824	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913754825	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510913757978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510913761170	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510913879675	geckodriver	INFO	geckodriver 0.19.1
+1510913879712	geckodriver	INFO	Listening on 127.0.0.1:45305
+1510913880787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Nm9id6ksG9Ar"
+1510913889360	Marionette	INFO	Enabled via --marionette
+1510913902815	Marionette	INFO	Listening on port 37581
+1510913903285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913903488	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913904704	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913906837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913906837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510913908317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://feekart.srmuniv.ac.in/srmopp/"
+1510913908614	Marionette	DEBUG	Received DOM event "pageshow" for "https://feekart.srmuniv.ac.in/srmopp/"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+(/usr/lib/firefox/firefox:10228): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://feekart.srmuniv.ac.in/srmopp/, line 313: TypeError: $(...).attr(...).fancybox is not a function
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510913979584	geckodriver	INFO	geckodriver 0.19.1
+1510913979598	geckodriver	INFO	Listening on 127.0.0.1:36503
+1510913980238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6qssdXX1TidP"
+1510913983703	Marionette	INFO	Enabled via --marionette
+1510913992159	Marionette	INFO	Listening on port 37277
+1510913992267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510913992500	Marionette	DEBUG	Register listener.js for window 2147483649
+1510913992775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510913995239	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510913995240	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510913996728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://feekart.srmuniv.ac.in/srmopp/"
+1510913997613	Marionette	DEBUG	Received DOM event "pageshow" for "https://feekart.srmuniv.ac.in/srmopp/"
+
+(/usr/lib/firefox/firefox:10407): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510914114525	geckodriver	INFO	geckodriver 0.19.1
+1510914114617	geckodriver	INFO	Listening on 127.0.0.1:59393
+1510914115129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KTyr2f2mGzPR"
+1510914118013	Marionette	INFO	Enabled via --marionette
+1510914126512	Marionette	INFO	Listening on port 33675
+1510914126627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914126844	Marionette	DEBUG	Register listener.js for window 2147483649
+1510914126920	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914129085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914129086	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510914131367	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://feekart.srmuniv.ac.in/srmopp/"
+1510914132051	Marionette	DEBUG	Received DOM event "pageshow" for "https://feekart.srmuniv.ac.in/srmopp/"
+[Child 10577, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-iyyHjN/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10577, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-iyyHjN/firefox-57.0+build4/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1510914184697	geckodriver	INFO	geckodriver 0.19.1
+1510914184709	geckodriver	INFO	Listening on 127.0.0.1:55953
+1510914185225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SFNb1yNB92qr"
+1510914187618	Marionette	INFO	Enabled via --marionette
+1510914194011	Marionette	INFO	Listening on port 34427
+1510914194238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914194372	Marionette	DEBUG	Register listener.js for window 2147483649
+1510914194417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914195869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914195869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510914198336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://feekart.srmuniv.ac.in/srmopp/"
+1510914199712	Marionette	DEBUG	Received DOM event "pageshow" for "https://feekart.srmuniv.ac.in/srmopp/"
+
+(/usr/lib/firefox/firefox:10731): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510914347675	geckodriver	INFO	geckodriver 0.19.1
+1510914347841	geckodriver	INFO	Listening on 127.0.0.1:49351
+1510914349460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.K3WKTjurVRWj"
+1510914353243	Marionette	INFO	Enabled via --marionette
+1510914362875	Marionette	INFO	Listening on port 33419
+1510914362953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510914363179	Marionette	DEBUG	Register listener.js for window 2147483649
+1510914363458	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510914364759	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510914364760	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510914365875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://feekart.srmuniv.ac.in/srmopp/"
+1510914368450	Marionette	DEBUG	Received DOM event "pageshow" for "https://feekart.srmuniv.ac.in/srmopp/"
+
+(/usr/lib/firefox/firefox:10965): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://feekart.srmuniv.ac.in/srmopp/, line 313: TypeError: $(...).attr(...).fancybox is not a function
+JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
