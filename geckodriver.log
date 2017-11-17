@@ -229,3 +229,84 @@ JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.m
 JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
 JavaScript error: https://feekart.srmuniv.ac.in/srmopp/, line 313: TypeError: $(...).attr(...).fancybox is not a function
 JavaScript warning: https://feekart.srmuniv.ac.in/srmopp/js/sm/js/block/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1510915077810	geckodriver	INFO	geckodriver 0.19.1
+1510915077837	geckodriver	INFO	Listening on 127.0.0.1:34507
+1510915079382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cSBdCP29sLGo"
+1510915081919	Marionette	INFO	Enabled via --marionette
+1510915087309	Marionette	INFO	Listening on port 38105
+1510915087541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915087745	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915088221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915090002	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915090003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915092115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510915094141	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+1510915145625	geckodriver	INFO	geckodriver 0.19.1
+1510915145639	geckodriver	INFO	Listening on 127.0.0.1:42153
+1510915147008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jmUPi0Kmr69g"
+1510915148721	Marionette	INFO	Enabled via --marionette
+1510915154021	Marionette	INFO	Listening on port 35697
+1510915154056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915154279	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510915192923	geckodriver	INFO	geckodriver 0.19.1
+1510915192934	geckodriver	INFO	Listening on 127.0.0.1:50985
+1510915194333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8QsHfnbVKWSv"
+1510915196355	Marionette	INFO	Enabled via --marionette
+1510915201942	Marionette	INFO	Listening on port 40991
+1510915202018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915202234	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915202336	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915203317	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915203318	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915203344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/accounts/signin.ac"
+1510915205636	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/accounts/signin.ac"
+1510915259740	geckodriver	INFO	geckodriver 0.19.1
+1510915259754	geckodriver	INFO	Listening on 127.0.0.1:46671
+1510915261123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BAmNIUY2Z92x"
+1510915262910	Marionette	INFO	Enabled via --marionette
+1510915268451	Marionette	INFO	Listening on port 46355
+1510915268488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915268760	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915268915	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915269892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915269894	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915271479	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510915273332	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510915389203	geckodriver	INFO	geckodriver 0.19.1
+1510915389217	geckodriver	INFO	Listening on 127.0.0.1:50325
+1510915390585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qPVKnnTFJYpE"
+1510915392438	Marionette	INFO	Enabled via --marionette
+1510915397875	Marionette	INFO	Listening on port 36359
+1510915397956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915398203	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915398300	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915399505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915399506	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915401076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510915410060	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+1510915497613	geckodriver	INFO	geckodriver 0.19.1
+1510915497625	geckodriver	INFO	Listening on 127.0.0.1:34395
+1510915499001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gE1OwOTVn8gN"
+1510915500832	Marionette	INFO	Enabled via --marionette
+1510915506223	Marionette	INFO	Listening on port 45133
+1510915506247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915506463	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915506719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915510533	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915510535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915513607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510915518606	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
+1510915587073	geckodriver	INFO	geckodriver 0.19.1
+1510915587085	geckodriver	INFO	Listening on 127.0.0.1:37213
+1510915588496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f6SgZ98amk4I"
+1510915590273	Marionette	INFO	Enabled via --marionette
+1510915595559	Marionette	INFO	Listening on port 42221
+1510915595647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510915595846	Marionette	DEBUG	Register listener.js for window 2147483649
+1510915595974	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510915597941	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510915597942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510915601034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://academia.srmuniv.ac.in/"
+1510915605820	Marionette	DEBUG	Received DOM event "pageshow" for "https://academia.srmuniv.ac.in/"
